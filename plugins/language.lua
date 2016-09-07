@@ -242,8 +242,8 @@ end
 end
  return {
  advan = {
- "Created by: @janlou",
- "Powered by: @AdvanTm",
+ "Created by: @lordlotter3",
+ "Powered by: @lordandroid_bot",
  "CopyRight all right reserved",
  },
  patterns = {
