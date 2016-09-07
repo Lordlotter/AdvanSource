@@ -102,7 +102,7 @@ end
 -- will get the text after the last "/" for filename
 -- and content-type for extension
 function download_to_file(url, file_name)
-  print("(@advantm) file has been saved in: "..url)
+  print("(@lordlotter3) file has been saved in: "..url)
 
   local respbody = {}
   local options = {
@@ -693,7 +693,7 @@ function is_log_group(msg)
   end
 end
 
---Trying to increase 5% of speed bye @janlou
+--Trying to increase 5% of speed bye @lordlotter3
 function savelog(group, logtxt)
 
 local text = (os.date("[ %c ]=>  "..logtxt.."\n \n"))
