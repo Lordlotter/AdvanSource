@@ -1,5 +1,5 @@
---Created by: @janlou & @Alirezame
---Powered by: @SUDO_TM & @AdvanTM
+--Created by: @lordlotter3
+--Powered by: @lordandroid_bot
 --⚠️CopyRight all right reserved⚠️
 
 local function saveplug(extra, success, result)
@@ -34,6 +34,6 @@ return {
   run = run,
 }
 
---Created by: @janlou & @Alirezame
---Powered by: @SUDO_TM & @AdvanTM
+--Created by: @lordlotter3
+--Powered by: @lordandroid_bot
 --⚠️CopyRight all right reserved⚠️
