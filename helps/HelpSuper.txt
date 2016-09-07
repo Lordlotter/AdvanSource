@@ -112,3 +112,4 @@ SuperGroup Commands:
 فقط ناظم ها و خریدار ها میتوانند دستورات  بالا را اجرا کنند
 *Only owner can use res, setowner, promote, demote, and log commands
 فقط خریدار گروه میتواند دستورات بالا رو اجرا کند
+سازنده : @lordlotter3
