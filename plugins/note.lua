@@ -29,8 +29,8 @@ return {
   "!mynote : show your note",
  },
  advan = {
-   "Created by: @janlou",
-   "Powered by: @AdvanTM",
+   "Created by: @lordlotter3",
+   "Powered by: @lordandroid_bot",
    "CopyRight all right reserved",
  },
  patterns = {
